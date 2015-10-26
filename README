@@ -1,0 +1,9 @@
+Name: Chadd Trudel
+Student ID: 5010918
+Project: Assignment 1
+
+Description: Simple file dictionary that reads from a file, and creates a dictionary of the words, and their frequencies.
+
+To make: Enter make FileDict
+To clean: Enter make clean
+To run: cd to proper directory then enter ./FileDict < file.txt (where file is the name of the file you wish to make a dictionary of)
